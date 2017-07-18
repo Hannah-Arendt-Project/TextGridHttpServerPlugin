@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/de.sub.goettingen.tghttpserver.feature_1.0.1.201707180940.jar" id="de.sub.goettingen.tghttpserver.feature" version="1.0.1.201707180940">
+   <feature url="features/de.sub.goettingen.tghttpserver.feature_1.0.1.201707181002.jar" id="de.sub.goettingen.tghttpserver.feature" version="1.0.1.201707181002">
       <category name="textgridaddons"/>
    </feature>
    <category-def name="textgridaddons" label="TextGrid Extensions (SUB)"/>
