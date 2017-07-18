@@ -1,8 +1,11 @@
 # TextGridHttpServerPlugin
-This a a plugin for the TextGrid Lab software which serves the personal repository locally via HTTP. This is useful if the edition project uses previews (e.g. via XSLT or HTML files) which make use of linked javascript and images, which are also stored inside the TextGrid repository.
+This a a plugin for the [TextGrid Lab](https://textgrid.de/) software which serves the personal repository locally via HTTP. This is useful if the edition project uses previews (e.g. via XSLT or HTML files) which make use of linked javascript and images, which are also stored inside the TextGrid repository.
 
 # Installation
-This plugin will be available via the TextGrid Marketplace soon. Until then, please go to the release tab on Github, and then download the latest Zip file. Start TextGrid Lab, go to the menu Help -> Install new software, click on the button Add..., click on the button archive and select the downloaded Zip file. Select the TextGridHttpServerPlugin feature, confirm the installation and restart TextGrid Lab.
+This plugin is available via the TextGrid Marketplace. Please start TextGrid Lab, click on Marketplace, search for TextGridHttpServerPlugin and click on install.
+
+## Manual install
+Please go to the release tab on Github, and then download the latest Zip file. Start TextGrid Lab, go to the menu Help -> Install new software, click on the button Add..., click on the button archive and select the downloaded Zip file. Select the TextGridHttpServerPlugin feature, confirm the installation and restart TextGrid Lab.
 
 After restart of TextGrid Lab installation, please start a web browser and open the following URL: http://localhost:9090
 
