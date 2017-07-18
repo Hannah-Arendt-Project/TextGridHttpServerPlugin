@@ -17,6 +17,9 @@ If Windows asks you you want to allow the network access, please confirm. This H
 * Open your HTML or XSLT document and edit the corresponding src/url tags. For example change `<script type="text/javascript" src="myscript.js">` to `<script type="text/javascript" src="http://localhost:9090/textgrid:345c.0">`. The textgrid:345c.0 path is the URI which you have copied into the clipboard before. This can be done with any tags which have a src or href attribute (e.g. `<img src="mybackground.jpg"/>` needs to be edited to `<img src=""http://localhost:9090/textgrid:367a.0"/>`)
 * Now perform your XSLT or open the HTML document inside Textgrid. The linked images/scripts etc. which are stored in the TextGrid repository are now available for this document.
 
+# License
+Apache 2.0.
+
 # Credits
 This plugin makes use of the [NannoHTTPD Java Web server](https://github.com/NanoHttpd/nanohttpd). 
 
