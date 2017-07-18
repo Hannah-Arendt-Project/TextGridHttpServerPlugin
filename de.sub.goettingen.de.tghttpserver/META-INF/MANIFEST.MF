@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: TGHTTPServer
+Bundle-SymbolicName: de.sub.goettingen.tghttpserver;singleton:=true
+Bundle-Version: 1.0.1.qualifier
+Bundle-Vendor: SUB
+Require-Bundle: org.eclipse.ui;bundle-version="3.106.1",
+ org.apache.httpcomponents.httpclient;bundle-version="4.3.6",
+ org.apache.httpcomponents.httpcore;bundle-version="4.3.3",
+ info.textgrid.lab.authn;bundle-version="0.0.3"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
