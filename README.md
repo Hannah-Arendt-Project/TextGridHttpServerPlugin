@@ -8,7 +8,7 @@ After restart of TextGrid Lab installation, please start a web browser and open 
 
 If the installation has been successful, you will see this welcome page:
 
-![welcome page](https://raw.githubusercontent.com/Hannah-Arendt-Project/TextGridHttpServerPlugin/blob/master/gh-imgs/indexpage.jpg "welcome page")
+![welcome page](https://raw.githubusercontent.com/Hannah-Arendt-Project/TextGridHttpServerPlugin/master/gh-imgs/indexpage.png)
 
 If Windows asks you you want to allow the network access, please confirm. This HTTP server can only be reached locally and not via any network connection.
 
@@ -20,4 +20,4 @@ If Windows asks you you want to allow the network access, please confirm. This H
 # Credits
 This plugin makes use of the [NannoHTTPD Java Web server](https://github.com/NanoHttpd/nanohttpd). 
 
-<a href="http://www.sub.uni-goettingen.de"><img src="https://raw.githubusercontent.com/Hannah-Arendt-Project/TextGridHttpServerPlugin/blob/master/gh-imgs/sub-logo.jpg" width="300"/></a>
+<a href="http://www.sub.uni-goettingen.de"><img src="https://raw.githubusercontent.com/Hannah-Arendt-Project/TextGridHttpServerPlugin/master/gh-imgs/sub-logo.jpg" width="300"/></a>
